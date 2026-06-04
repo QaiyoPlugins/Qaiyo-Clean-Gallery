@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qaiyo-clean-gallery 0.6.1\n"
+"Report-Msgid-Bugs-To: https://qaiyo-plugins.com\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Qaiyo build-mo.py\n"
+
+msgid "Qaiyo Plugins"
+msgstr "Qaiyo pluginok"
+
+msgid "Galleries"
+msgstr "Galériák"
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+msgid "Add New Gallery"
+msgstr "Új galéria"
+
+msgid "Edit Gallery"
+msgstr "Galéria szerkesztése"
+
+msgid "New Gallery"
+msgstr "Új galéria"
+
+msgid "View Gallery"
+msgstr "Galéria megtekintése"
+
+msgid "Search Galleries"
+msgstr "Galériák keresése"
+
+msgid "No galleries found."
+msgstr "Nem található galéria."
+
+msgid "No galleries in Trash."
+msgstr "Nincs törölt galéria."
+
+msgid "Clean Gallery"
+msgstr "Clean Gallery"
+
+msgid "Gallery Categories"
+msgstr "Galéria kategóriák"
+
+msgid "Gallery Category"
+msgstr "Galéria kategória"
+
+msgid "Search Categories"
+msgstr "Kategóriák keresése"
+
+msgid "All Categories"
+msgstr "Összes kategória"
+
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+msgid "Update Category"
+msgstr "Kategória frissítése"
+
+msgid "Add New Category"
+msgstr "Új kategória"
+
+msgid "New Category Name"
+msgstr "Új kategória neve"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Gallery Images"
+msgstr "Galéria képek"
+
+msgid "Gallery Settings"
+msgstr "Galéria beállítások"
+
+msgid "Select Gallery Images"
+msgstr "Galéria képek kiválasztása"
+
+msgid "Add to Gallery"
+msgstr "Hozzáadás a galériához"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "No images yet. Click \"Add / Insert Images\" to get started."
+msgstr "Még nincs kép. Kattints az „Új képek hozzáadása\" gombra a kezdéshez."
+
+msgid "Add / Insert Images"
+msgstr "Új képek hozzáadása"
+
+msgid "Remove All"
+msgstr "Mind eltávolítása"
+
+msgid "— HappyFiles folder —"
+msgstr "— HappyFiles mappa —"
+
+msgid "Import from HappyFiles"
+msgstr "Importálás HappyFilesból"
+
+msgid "Import from HappyFiles folder"
+msgstr "Importálás HappyFiles mappából"
+
+msgid "— Select a folder —"
+msgstr "— Válassz mappát —"
+
+msgid "Importing…"
+msgstr "Importálás…"
+
+msgid "%d image(s) imported from HappyFiles folder."
+msgstr "%d kép importálva a HappyFiles mappából."
+
+msgid "This folder has no images."
+msgstr "Ebben a mappában nincs kép."
+
+msgid "Could not load HappyFiles folders."
+msgstr "Nem sikerült betölteni a HappyFiles mappákat."
+
+msgid "Large image: \"%1$s\" (%2$s). Qaiyo Clean Gallery will automatically compress it to under 1 MB after upload."
+msgstr "Nagy méretű kép: „%1$s\" (%2$s). A Qaiyo Clean Gallery feltöltés után automatikusan 1 MB alá tömöríti."
+
+msgid "%d large image(s) detected (over 1.5 MB each). Qaiyo Clean Gallery will automatically compress them after upload."
+msgstr "%d nagy méretű kép észlelve (egyenként 1.5 MB felett). A Qaiyo Clean Gallery feltöltés után automatikusan tömöríti őket."
+
+msgid "Layout"
+msgstr "Elrendezés"
+
+msgid "Columns"
+msgstr "Oszlopok"
+
+msgid "Lightbox"
+msgstr "Lightbox"
+
+msgid "Captions"
+msgstr "Feliratok"
+
+msgid "Lazy loading"
+msgstr "Lazy loading"
+
+msgid "Gap (px)"
+msgstr "Térköz (px)"
+
+msgid "Grid"
+msgstr "Rács"
+
+msgid "Masonry"
+msgstr "Masonry"
+
+msgid "Neither Imagick nor GD is available on this server."
+msgstr "Sem az Imagick, sem a GD nem érhető el ezen a szerveren."
+
+msgid "GD WebP support not compiled in."
+msgstr ""
+
+msgid "Unsupported image type for GD compression."
+msgstr ""
+
+msgid "GD WebP support not available."
+msgstr ""
+
+msgid "Unsupported image type."
+msgstr ""
+
+msgid "Optimized by Qaiyo Clean Gallery: %1$s → %2$s (saved %3$d%%, engine: %4$s)"
+msgstr "Optimalizálta a Qaiyo Clean Gallery: %1$s → %2$s (megtakarítás: %3$d%%, motor: %4$s)"
+
+msgid "Qaiyo Clean Gallery"
+msgstr "Qaiyo Clean Gallery"
+
+msgid "Compression failed: "
+msgstr "A tömörítés sikertelen: "
+
+msgid "Display a gallery with grid or masonry layout, lightbox and filtering."
+msgstr "Galéria megjelenítése rács vagy masonry elrendezéssel, lightboxszal és szűrővel."
+
+msgid "Select Gallery"
+msgstr "Galéria kiválasztása"
+
+msgid "Options"
+msgstr "Beállítások"
+
+msgid "Show filter bar"
+msgstr "Szűrősáv megjelenítése"
+
+msgid "Select a gallery in the sidebar to show a preview."
+msgstr "Válassz galériát az oldalsávban az előnézethez."
+
+msgid "— Select gallery —"
+msgstr "— Válassz galériát —"
+
+msgid "No galleries available."
+msgstr "Nincs megjeleníthető galéria."
+
+msgid "Gallery filter"
+msgstr "Galéria szűrő"
+
+msgid "All"
+msgstr "Összes"
+
+msgid "Sort order"
+msgstr "Rendezés"
+
+msgid "Date: newest first"
+msgstr "Dátum: legújabb elöl"
+
+msgid "Date: oldest first"
+msgstr "Dátum: legrégebbi elöl"
+
+msgid "A → Z"
+msgstr "ABC: A → Z"
+
+msgid "Z → A"
+msgstr "ABC: Z → A"
+
+msgid "3 columns"
+msgstr "3 oszlop"
+
+msgid "4 columns"
+msgstr "4 oszlop"
+
+msgid "Load more"
+msgstr "Továbbiak betöltése"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Previous"
+msgstr "Előző"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "images"
+msgstr "kép"
+
+msgid "(%1$d / %2$d remaining)"
+msgstr "(%1$d / %2$d maradt)"
+
+msgid "Open gallery"
+msgstr "Galéria megnyitása"
+
+msgid "Back to galleries"
+msgstr "Vissza a galériákhoz"
+
+msgid "%d images"
+msgstr ""
+
+msgid "No images uploaded for this gallery yet."
+msgstr "Ehhez a galériához még nincsenek képek feltöltve."
+
+msgid "Insufficient permissions."
+msgstr "Nincs megfelelő jogosultság."
+
+msgid "HappyFiles plugin is not active."
+msgstr "A HappyFiles plugin nem aktív."
+
+msgid "Invalid folder."
+msgstr "Érvénytelen mappa."
+
+msgid "Info & Help"
+msgstr "Info & Segítség"
+
+msgid "Lightweight, professional gallery plugin — Grid, Masonry, Lightbox, filtering and lazy loading. No bloat, no dependencies."
+msgstr "Letisztult, gyors, professzionális galéria plugin — Rács, Masonry, Lightbox, szűrés és lazy loading. Nulla függőség."
+
+msgid "Getting started"
+msgstr "Kezdő lépések"
+
+msgid "Create a new gallery under <a href=\"%s\">Clean Gallery → Add New</a>."
+msgstr "Hozz létre új galériát: <a href=\"%s\">Clean Gallery → Új hozzáadása</a>."
+
+msgid "Pick images from the Media Library, set layout and columns, then publish."
+msgstr "Válassz képeket a Média könyvtárból, állítsd be az elrendezést és oszlopokat, majd publikáld."
+
+msgid "Embed it with the <code>[clean_gallery id=\"X\"]</code> shortcode or the <strong>Qaiyo Clean Gallery</strong> Gutenberg block."
+msgstr "Ágyazd be a <code>[clean_gallery id=\"X\"]</code> shortcode-dal vagy a <strong>Qaiyo Clean Gallery</strong> Gutenberg blokkal."
+
+msgid "Shortcodes"
+msgstr "Shortcode-ok"
+
+msgid "single gallery view"
+msgstr "egy galéria megjelenítése"
+
+msgid "all galleries grid with paging, sorting and category filter"
+msgstr "összes galéria kártyás listája lapozással, rendezéssel és kategória szűrővel"
+
+msgid "HappyFiles integration"
+msgstr "HappyFiles integráció"
+
+msgid "ACTIVE"
+msgstr "AKTÍV"
+
+msgid "NOT DETECTED"
+msgstr "NEM ÉSZLELVE"
+
+msgid "HappyFiles is active. On the gallery editor screen you can pick a HappyFiles folder and bulk-import all its images."
+msgstr "A HappyFiles aktív. A galéria szerkesztőben kiválaszthatsz egy HappyFiles mappát, és tömegesen importálhatod az összes képét."
+
+msgid "Install HappyFiles (free or Pro) to enable bulk-importing entire media folders into a gallery."
+msgstr "Telepítsd a HappyFilest (ingyenes vagy Pro), hogy tömegesen importálhass teljes mappákat a galériába."
+
+msgid "Qaiyo Clean Gallery v%s — by Qaiyo by PixelDesigns · qaiyo-plugins.com"
+msgstr "Qaiyo Clean Gallery v%s — Készítette: Qaiyo by PixelDesigns · qaiyo-plugins.com"
+
+msgid "Column switcher icon colors"
+msgstr "Oszlopváltó ikon színek"
+
+msgid "These colors are used for the 3-/4-column switcher icons on the [clean_gallery_all] view."
+msgstr "Ezek a színek vonatkoznak a [clean_gallery_all] nézet 3 / 4 oszlop kapcsoló ikonjaira."
+
+msgid "Default color"
+msgstr "Alap szín"
+
+msgid "Hover color"
+msgstr "Hover szín"
+
+msgid "Active color"
+msgstr "Aktív szín"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Columns preview"
+msgstr "Oszlopváltó előnézet"
+
+msgid "Save changes"
+msgstr "Módosítások mentése"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "All galleries (paged)"
+msgstr "Összes galéria (lapozható)"
+
+msgid "Save the gallery first to see its shortcode."
+msgstr "Mentsd el a galériát a shortcode megjelenítéséhez."
+
+msgid "Paste the shortcode into any post, page or widget to embed this gallery."
+msgstr "Másold a shortcode-ot bármely bejegyzésbe, oldalba vagy widgetbe a galéria megjelenítéséhez."
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Copied!"
+msgstr "Másolva!"
+
+msgid "HappyFiles folder (live link)"
+msgstr "HappyFiles mappa (élő kapcsolat)"
+
+msgid "— None (manual gallery) —"
+msgstr "— Nincs (kézi galéria) —"
+
+msgid "Select a folder to live-link this gallery. Images stay in sync with HappyFiles automatically — no import needed."
+msgstr "Válassz mappát az élő összekötéshez. A képek automatikusan szinkronban maradnak a HappyFilesszal — nincs szükség importra."
+
+msgid "Live-linked to HappyFiles folder %1$s (%2$d image(s)). Add or remove images directly in HappyFiles — this gallery updates automatically."
+msgstr "Élő kapcsolat a %1$s HappyFiles mappával (%2$d kép). Adj hozzá vagy törölj képeket közvetlenül a HappyFilesban — ez a galéria automatikusan frissül."
+
+msgid "Standard (uniform squares)"
+msgstr "Standard (egyforma négyzetek)"
+
+msgid "Justified (equal-height rows)"
+msgstr "Justified (egyenlő magas sorok)"
+
+msgid "Bento (asymmetric)"
+msgstr "Bento (aszimmetrikus)"
+
+msgid "Lightbox & Protection"
+msgstr "Lightbox és védelem"
+
+msgid "Deep linking"
+msgstr "Deep linking"
+
+msgid "Add #hash to the URL when navigating the lightbox, so individual images can be linked and shared directly."
+msgstr "#hash hozzáadása az URL-hez a lightbox navigálásakor, így az egyes képek közvetlenül linkelhetők és megoszthatók."
+
+msgid "Social share buttons"
+msgstr "Közösségi megosztó gombok"
+
+msgid "Show Facebook, X, Pinterest and copy-link buttons inside the lightbox."
+msgstr "Facebook, X, Pinterest és link másolás gombok megjelenítése a lightboxban."
+
+msgid "Right-click protection"
+msgstr "Jobb klikk védelem"
+
+msgid "Disable right-click and drag on gallery images. Prevents casual downloading (not bulletproof)."
+msgstr "Jobb klikk és húzás tiltása a galéria képein. Megakadályozza az egyszerű letöltést (nem teljesen áthatolhatatlan)."
+
+msgid "Copy link"
+msgstr "Link másolása"
+
+msgid "%d image"
+msgid_plural "%d images"
+msgstr[0] "%d kép"
+msgstr[1] "%d kép"

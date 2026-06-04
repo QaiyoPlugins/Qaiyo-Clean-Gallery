@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qaiyo-clean-gallery 0.6.1\n"
+"Report-Msgid-Bugs-To: https://qaiyo-plugins.com\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Qaiyo build-mo.py\n"
+
+msgid "Qaiyo Plugins"
+msgstr "Plugins Qaiyo"
+
+msgid "Galleries"
+msgstr "Galerías"
+
+msgid "Gallery"
+msgstr "Galería"
+
+msgid "Add New"
+msgstr "Añadir nueva"
+
+msgid "Add New Gallery"
+msgstr "Nueva galería"
+
+msgid "Edit Gallery"
+msgstr "Editar galería"
+
+msgid "New Gallery"
+msgstr "Nueva galería"
+
+msgid "View Gallery"
+msgstr "Ver galería"
+
+msgid "Search Galleries"
+msgstr "Buscar galerías"
+
+msgid "No galleries found."
+msgstr "No se encontraron galerías."
+
+msgid "No galleries in Trash."
+msgstr "No hay galerías en la papelera."
+
+msgid "Clean Gallery"
+msgstr "Clean Gallery"
+
+msgid "Gallery Categories"
+msgstr "Categorías de galería"
+
+msgid "Gallery Category"
+msgstr "Categoría de galería"
+
+msgid "Search Categories"
+msgstr ""
+
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+msgid "Edit Category"
+msgstr ""
+
+msgid "Update Category"
+msgstr ""
+
+msgid "Add New Category"
+msgstr ""
+
+msgid "New Category Name"
+msgstr ""
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Gallery Images"
+msgstr "Imágenes de la galería"
+
+msgid "Gallery Settings"
+msgstr "Ajustes de la galería"
+
+msgid "Select Gallery Images"
+msgstr "Seleccionar imágenes"
+
+msgid "Add to Gallery"
+msgstr "Añadir a la galería"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "No images yet. Click \"Add / Insert Images\" to get started."
+msgstr ""
+
+msgid "Add / Insert Images"
+msgstr "Añadir imágenes"
+
+msgid "Remove All"
+msgstr "Eliminar todas"
+
+msgid "— HappyFiles folder —"
+msgstr "— Carpeta de HappyFiles —"
+
+msgid "Import from HappyFiles"
+msgstr "Importar desde HappyFiles"
+
+msgid "Import from HappyFiles folder"
+msgstr ""
+
+msgid "— Select a folder —"
+msgstr ""
+
+msgid "Importing…"
+msgstr ""
+
+msgid "%d image(s) imported from HappyFiles folder."
+msgstr ""
+
+msgid "This folder has no images."
+msgstr ""
+
+msgid "Could not load HappyFiles folders."
+msgstr ""
+
+msgid "Large image: \"%1$s\" (%2$s). Qaiyo Clean Gallery will automatically compress it to under 1 MB after upload."
+msgstr ""
+
+msgid "%d large image(s) detected (over 1.5 MB each). Qaiyo Clean Gallery will automatically compress them after upload."
+msgstr ""
+
+msgid "Layout"
+msgstr "Disposición"
+
+msgid "Columns"
+msgstr "Columnas"
+
+msgid "Lightbox"
+msgstr "Lightbox"
+
+msgid "Captions"
+msgstr "Leyendas"
+
+msgid "Lazy loading"
+msgstr "Carga diferida"
+
+msgid "Gap (px)"
+msgstr "Separación (px)"
+
+msgid "Grid"
+msgstr "Cuadrícula"
+
+msgid "Masonry"
+msgstr "Mampostería"
+
+msgid "Neither Imagick nor GD is available on this server."
+msgstr ""
+
+msgid "GD WebP support not compiled in."
+msgstr ""
+
+msgid "Unsupported image type for GD compression."
+msgstr ""
+
+msgid "GD WebP support not available."
+msgstr ""
+
+msgid "Unsupported image type."
+msgstr ""
+
+msgid "Optimized by Qaiyo Clean Gallery: %1$s → %2$s (saved %3$d%%, engine: %4$s)"
+msgstr ""
+
+msgid "Qaiyo Clean Gallery"
+msgstr ""
+
+msgid "Compression failed: "
+msgstr ""
+
+msgid "Display a gallery with grid or masonry layout, lightbox and filtering."
+msgstr ""
+
+msgid "Select Gallery"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Show filter bar"
+msgstr ""
+
+msgid "Select a gallery in the sidebar to show a preview."
+msgstr ""
+
+msgid "— Select gallery —"
+msgstr ""
+
+msgid "No galleries available."
+msgstr "No hay galerías disponibles."
+
+msgid "Gallery filter"
+msgstr ""
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Sort order"
+msgstr "Orden"
+
+msgid "Date: newest first"
+msgstr "Fecha: más reciente primero"
+
+msgid "Date: oldest first"
+msgstr "Fecha: más antiguo primero"
+
+msgid "A → Z"
+msgstr ""
+
+msgid "Z → A"
+msgstr ""
+
+msgid "3 columns"
+msgstr ""
+
+msgid "4 columns"
+msgstr ""
+
+msgid "Load more"
+msgstr "Cargar más"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "images"
+msgstr "imágenes"
+
+msgid "(%1$d / %2$d remaining)"
+msgstr ""
+
+msgid "Open gallery"
+msgstr "Abrir galería"
+
+msgid "Back to galleries"
+msgstr "Volver a las galerías"
+
+msgid "%d images"
+msgstr ""
+
+msgid "No images uploaded for this gallery yet."
+msgstr "Aún no se han subido imágenes para esta galería."
+
+msgid "Insufficient permissions."
+msgstr ""
+
+msgid "HappyFiles plugin is not active."
+msgstr ""
+
+msgid "Invalid folder."
+msgstr ""
+
+msgid "Info & Help"
+msgstr "Info y Ayuda"
+
+msgid "Lightweight, professional gallery plugin — Grid, Masonry, Lightbox, filtering and lazy loading. No bloat, no dependencies."
+msgstr ""
+
+msgid "Getting started"
+msgstr "Primeros pasos"
+
+msgid "Create a new gallery under <a href=\"%s\">Clean Gallery → Add New</a>."
+msgstr ""
+
+msgid "Pick images from the Media Library, set layout and columns, then publish."
+msgstr ""
+
+msgid "Embed it with the <code>[clean_gallery id=\"X\"]</code> shortcode or the <strong>Qaiyo Clean Gallery</strong> Gutenberg block."
+msgstr ""
+
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+msgid "single gallery view"
+msgstr ""
+
+msgid "all galleries grid with paging, sorting and category filter"
+msgstr ""
+
+msgid "HappyFiles integration"
+msgstr "Integración con HappyFiles"
+
+msgid "ACTIVE"
+msgstr "ACTIVO"
+
+msgid "NOT DETECTED"
+msgstr "NO DETECTADO"
+
+msgid "HappyFiles is active. On the gallery editor screen you can pick a HappyFiles folder and bulk-import all its images."
+msgstr ""
+
+msgid "Install HappyFiles (free or Pro) to enable bulk-importing entire media folders into a gallery."
+msgstr ""
+
+msgid "Qaiyo Clean Gallery v%s — by Qaiyo by PixelDesigns · qaiyo-plugins.com"
+msgstr ""
+
+msgid "Column switcher icon colors"
+msgstr "Colores de iconos del selector de columnas"
+
+msgid "These colors are used for the 3-/4-column switcher icons on the [clean_gallery_all] view."
+msgstr ""
+
+msgid "Default color"
+msgstr "Color por defecto"
+
+msgid "Hover color"
+msgstr "Color al pasar"
+
+msgid "Active color"
+msgstr "Color activo"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Columns preview"
+msgstr ""
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "All galleries (paged)"
+msgstr ""
+
+msgid "Save the gallery first to see its shortcode."
+msgstr ""
+
+msgid "Paste the shortcode into any post, page or widget to embed this gallery."
+msgstr ""
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+msgid "HappyFiles folder (live link)"
+msgstr "Carpeta de HappyFiles (enlace en vivo)"
+
+msgid "— None (manual gallery) —"
+msgstr "— Ninguna (galería manual) —"
+
+msgid "Select a folder to live-link this gallery. Images stay in sync with HappyFiles automatically — no import needed."
+msgstr ""
+
+msgid "Live-linked to HappyFiles folder %1$s (%2$d image(s)). Add or remove images directly in HappyFiles — this gallery updates automatically."
+msgstr ""
+
+msgid "Standard (uniform squares)"
+msgstr "Estándar (cuadrados uniformes)"
+
+msgid "Justified (equal-height rows)"
+msgstr "Justificado (filas de igual altura)"
+
+msgid "Bento (asymmetric)"
+msgstr "Bento (asimétrico)"
+
+msgid "Lightbox & Protection"
+msgstr "Lightbox y protección"
+
+msgid "Deep linking"
+msgstr "Enlaces directos"
+
+msgid "Add #hash to the URL when navigating the lightbox, so individual images can be linked and shared directly."
+msgstr ""
+
+msgid "Social share buttons"
+msgstr "Botones para compartir"
+
+msgid "Show Facebook, X, Pinterest and copy-link buttons inside the lightbox."
+msgstr ""
+
+msgid "Right-click protection"
+msgstr "Protección clic derecho"
+
+msgid "Disable right-click and drag on gallery images. Prevents casual downloading (not bulletproof)."
+msgstr ""
+
+msgid "Copy link"
+msgstr "Copiar enlace"
+
+msgid "%d image"
+msgid_plural "%d images"
+msgstr[0] "%d imagen"
+msgstr[1] "%d imágenes"
